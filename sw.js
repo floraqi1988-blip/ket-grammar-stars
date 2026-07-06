@@ -1,4 +1,4 @@
-var CACHE_NAME = 'ket-grammar-stars-v1';
+var CACHE_NAME = 'ket-grammar-stars-v2';
 var urlsToCache = [
   './',
   './index.html'
